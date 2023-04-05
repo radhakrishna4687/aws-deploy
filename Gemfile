@@ -1,5 +1,5 @@
 source :rubygems
 
-gem 'cucumber'
+gem 'cucumber', '>= 4.0.0'
 gem 'spec'
 gem 'poltergeist'
